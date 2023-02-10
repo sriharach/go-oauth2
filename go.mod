@@ -6,6 +6,7 @@ require github.com/gofiber/fiber/v2 v2.41.0
 
 require (
 	cloud.google.com/go/compute/metadata v0.2.0 // indirect
+	github.com/golang-jwt/jwt/v4 v4.4.3 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	golang.org/x/net v0.5.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
